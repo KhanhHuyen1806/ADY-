@@ -6,7 +6,7 @@ import re
 import logging
 import mysql.connector
 from pathlib import Path
-
+#NDAJKSDNKJAS
 
 DEBUG = True
 
